@@ -7,7 +7,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: "index.html",
-        qapilot: "qapilot.html",
+        template: "template.html",
       },
     },
   },
